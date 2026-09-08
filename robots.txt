@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/tommy-bahama-glp-1-booster-ca-uk-us/sitemap.xml
+Sitemap: https://tommy-bahama-glp-1-booster-ca-uk-us.vercel.app/sitemap-vercel.xml
+Sitemap: https://tommy-bahama-glp-1-booster-ca-uk-us.pages.dev/sitemap-cloudflare.xml
